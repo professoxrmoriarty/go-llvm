@@ -25,7 +25,7 @@ This library serves as a replacement for `tinygo.org/x/go-llvm` with enhanced su
 ## Installation
 
 ```bash
-go get github.com/yaklang/go-llvm
+go get github.com/professoxrmoriarty/go-llvm
 ```
 
 ## Usage
